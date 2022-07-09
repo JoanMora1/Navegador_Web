@@ -1,0 +1,10 @@
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\bin\Debug\Navegador_web.exe.config
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\bin\Debug\Navegador_web.exe
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\bin\Debug\Navegador_web.pdb
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\obj\Debug\Navegador_web.csproj.AssemblyReference.cache
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\obj\Debug\Navegador_web.Form1.resources
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\obj\Debug\Navegador_web.Properties.Resources.resources
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\obj\Debug\Navegador_web.csproj.GenerateResource.cache
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\obj\Debug\Navegador_web.csproj.CoreCompileInputs.cache
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\obj\Debug\Navegador_web.exe
+C:\Users\JOSE MANUEL\source\repos\Navegador_web\Navegador_web\obj\Debug\Navegador_web.pdb
